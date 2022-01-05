@@ -1,4 +1,6 @@
-https://blooming-spire-37746.herokuapp.com/
+App: https://blooming-spire-37746.herokuapp.com/
+
+This app is created for language studying with mini-games. The app allows users to create their own word sets. For each word in the set, users can write a word, a translation, and an example. Also, users can search for word sets by other users.
 
 | Tehtävät |  Tunnit  | Päivä |
 |:-----|:--------:|------:|
