@@ -5,7 +5,7 @@ This app is created for language studying with mini-games. The app allows users 
 
 How to use: https://docs.google.com/document/d/1_KGJx7szfEd9w3CMO7HaA0B0w94FirRDRKdLE8u6Ugw/edit?usp=sharing
 
-Kokonaistuntimäärä: 128,5 tuntia
+Kokonaistuntimäärä: 130 tuntia
 
 | Tehtävät |  Tunnit  | Päivä |
 |:-----|:--------:|------:|
@@ -56,3 +56,4 @@ Kokonaistuntimäärä: 128,5 tuntia
 | Footer + Level bar. | 1 | 26.12 |
 | Help -sivu ( + kuvat). | 1 | 27.12 |
 | Sovellus Herokuun. Router korjaukset. Testaus. Muut korjaukset. | 7 | 28.12 |
+| Käyttöohjeet. | 1,5 | 6.1 |
